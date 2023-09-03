@@ -1,4 +1,5 @@
-https://holopin.me/kartikeyyy)](https://holopin.io/@kartikeyyy)
+
+[![An image of @kartikeyyy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikeyyy)](https://holopin.io/@kartikeyyy)
 
 # 💫 About Me:
 📫 Reach me at: kartikeybhatnagar.shs@gmail.com<br>📄 Check my <br>👨‍💻 Visit : <br>🌱 I’m currently learning Data Science<br>
