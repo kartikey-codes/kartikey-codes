@@ -1,3 +1,5 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 # 💫 About Me:
 📫 Reach me at: kartikeybhatnagar.shs@gmail.com<br>📄 Check my <br>👨‍💻 Visit : <br>🌱 I’m currently learning Data Science<br>
 
