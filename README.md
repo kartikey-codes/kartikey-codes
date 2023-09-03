@@ -32,5 +32,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kartikey-codes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/kartikey-codes/kartikey-codes/blob/output/github-contribution-grid-snake.svg)
+
 <!--  -->
