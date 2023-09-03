@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
 <div align="center">
 </div> 
-##💫 About Me:
+## 💫 About Me:
 📫 Reach me at: kartikeybhatnagar.shs@gmail.com<br>📄 Check my <br>👨‍💻 Visit : <br>🌱 I’m currently learning Data Science<br>
 
 
