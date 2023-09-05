@@ -9,7 +9,7 @@
 
 
 ## 💫 About Me:
-📫 Reach me at: kartikeybhatnagar.shs@gmail.com<br> <!----📄 Check my resume <br>-->  <br>🌱 I’m currently learning Data Science<br>
+📫 Reach me at: kartikeybhatnagar.shs@gmail.com <!----📄 Check my resume <br>-->  <br>🌱 I’m currently learning Data Science<br>
 
 
 ## 🌐 Socials:
