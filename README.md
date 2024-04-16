@@ -6,11 +6,22 @@
 
 </div>
 
+<!----## 💫 About Me:
+📫 Reach me at: kartikeybhatnagar.shs@gmail.com <!----📄 Check my resume <br>  <br>🌱 I’m currently learning Data Science<br> -->
 
+<details>
+  <summary><strong>Why Me?</strong></summary>
 
-## 💫 About Me:
-📫 Reach me at: kartikeybhatnagar.shs@gmail.com <!----📄 Check my resume <br>-->  <br>🌱 I’m currently learning Data Science<br>
-
+  - Love to learn new Tech, better at coping up with new technologies.
+  - Alongside entrepreneurial thought over projects.
+  - Have a craze towards computer technologies and love to learn new stuff & work with new people.
+  - Better understanding of code and has better problem-solving tactics because of working on different projects.
+  - Better Design Tactics, I make most of the designs of my projects.
+  - Hardworking and can go sleepless over nights without feeling fatigued in projects I'm passionate about.
+  - Good at motivating teammates on a project and have good leadership skills.
+  - Love to help others.
+  - Can envision based on the current market and teammates.
+</details>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartickeyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikey-bhatnagar) 
