@@ -24,10 +24,10 @@
 </details>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartickeyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikey-bhatnagar) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikey-bhatnagar) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,md,php,py,r,aws,azure,docker,firebase,netlify,heroku,vercel,bootstrap,express,flask,laravel,nextjs,nodejs,react,redux,tailwind,threejs,vue,vite,blender,cloudflare,figma,git,matlab,mongodb,mysql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,md,php,py,r,aws,azure,docker,firebase,netlify,heroku,vercel,bootstrap,express,flask,laravel,nodejs,react,tailwind,threejs,vue,vite,blender,cloudflare,figma,git,matlab,mongodb,mysql,prisma)](https://skillicons.dev)
 
 
 <!----
